@@ -34,6 +34,7 @@ public class ConvexHull {
 	}
 
 	public static ArrayList<Circle> enveloppe(ArrayList<Circle> points) {
+
 		ArrayList<Circle> pointsRanges = new ArrayList<>(rangerPoints(points));
 		//System.out.println(pointsRanges);
 		Stack<Circle> pile = new Stack<>();
