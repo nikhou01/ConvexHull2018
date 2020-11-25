@@ -1,3 +1,3 @@
 # ConvexHull2018
 Représentation visuelle de l'enveloppe convexe.
->Télécharger et lancer le fichier .exe pour voir le résultat.
+>Télécharger et lancer le fichier convexhull-nkhou.exe pour voir le résultat.
